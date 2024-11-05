@@ -8,7 +8,7 @@
     color: #e5e5e5;
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 10%, transparent); /* 180deg from top to bottom, 70% opacity 10% from starting from top ,tranparent at bottom */
     z-index: 1;
-    /* border: 1px solid #e5e5e5; */
+
 }
 
 /* navbar left */

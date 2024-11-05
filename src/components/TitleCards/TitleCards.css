@@ -1,7 +1,6 @@
 .title-cards{
     margin-top: 50px;
-    margin-bottom: 30px;
-    /* padding-right: 6%;  add on */ 
+    margin-bottom: 30px; 
 }
 .title-cards h2{
     margin-bottom: 8px;
@@ -9,10 +8,10 @@
 .card-list{
     display: flex;
     gap: 10px;
-    overflow-x: scroll;  /* overflow-x for creating scrollbars on x-axis */
+    overflow-x: scroll; 
 }
 .card-list::-webkit-scrollbar{
-    display: none; /* for hiding scrollbar */
+    display: none; 
 }
 .card-list img{
     width: 240px;

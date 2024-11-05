@@ -5,7 +5,7 @@ import Login from './pages/Login/Login'
 import Player from './pages/Player/Player'
 import { auth } from './firebase'
 import { onAuthStateChanged } from 'firebase/auth'
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
